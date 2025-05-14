@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Sobre mim
+## 🌟 Sobre mim 
 
 - 🎓 Graduanda no IFMS - Sistemas para Internet 
 - ☁️ Bolsista no programa Compass UOL em projetos com AWS, IA e Chatbots
@@ -17,12 +17,17 @@
 
 ## 🧰 Tecnologias que uso
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
@@ -33,11 +38,19 @@
 - 🔹 Outros projetos em: [Repositórios Públicos](https://github.com/RobertakOliveira?tab=repositories)
 
 ---
+## 📈 Estatísticas de perfil
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertakOliveira&show_icons=true&theme=radical)
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/roberta-oliveira-b9a0961a4)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/roberta-oliveira-b9a0961a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:robertaoliveiraw@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
